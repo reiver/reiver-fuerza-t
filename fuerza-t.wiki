@@ -10,35 +10,35 @@ wiki/1
 
 **Fuerza-T** had 12 knowns characters:
 
-• platino
-• shidoshi
-• titano
-• tekno
-• carnivor
-• destructor
-• felinor
-• pantano
-• prince-goldar
-• spector
-• silvar
-• infector
+• [[fuerza-t-platino]]
+• [[fuerza-t-shidoshi]]
+• [[fuerza-t-titano]]
+• [[fuerza-t-tekno]]
+• [[fuerza-t-carnivor]]
+• [[fuerza-t-destructor]]
+• [[fuerza-t-felinor]]
+• [[fuerza-t-pantano]]
+• [[fuerza-t-prince-goldar]]
+• [[fuerza-t-spector]]
+• [[fuerza-t-silvar]]
+• [[fuerza-t-infector]]
 
 §§ Toys
 
 Only 8 of the 12 characters were released as toys:
 
-• platino
-• shidoshi
-• titano
-• tekno
-• carnivor
-• destructor
-• felinor
-• pantano
+• [[fuerza-t-platino]]
+• [[fuerza-t-shidoshi]]
+• [[fuerza-t-titano]]
+• [[fuerza-t-tekno]]
+• [[fuerza-t-carnivor]]
+• [[fuerza-t-destructor]]
+• [[fuerza-t-felinor]]
+• [[fuerza-t-pantano]]
 
 Photos exist of the remaining 4 of the 12 characters, but it is believed that they were never released as toys:
 
-• prince-goldar
-• spector
-• silvar
-• infector
+• [[fuerza-t-prince-goldar]]
+• [[fuerza-t-spector]]
+• [[fuerza-t-silvar]]
+• [[fuerza-t-infector]]
